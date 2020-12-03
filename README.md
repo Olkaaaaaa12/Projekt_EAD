@@ -1,7 +1,7 @@
 # Projekt_EAD
 Projekt w ramach zajęć Eksploracyjna Analiza Danych.
 
-Opis zadania
+Projekt polegał na realizacji poniższych zadań.
 
 Na stronie Social Security Administration umieszczono dane zawierającą listę imion oraz częstotliwość ich występowania w latach 1880-2019. Pliki z danymi w formacie CSV dostępne są tutaj.
 
